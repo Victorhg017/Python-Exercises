@@ -19,7 +19,7 @@
 
 
 
-'Códigos e resoluções dos problemas devem ser usados apenas para tirar dúvidas'
+'Abaixo está os códigos e resoluções dos problemas, eles devem ser usados apenas para tirar dúvidas'
 
 
 
